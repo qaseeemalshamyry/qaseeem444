@@ -1,0 +1,37 @@
+{"version_code":451184,"content":"
+<p>投便� 9.10</p>
+
+<li>圳投便� 萌虺� 圳嗣枯� 2.16.310</li>
+<li>火吒� 釧苓� 圳蛻攸 刖 圳和澆�</li>
+<li>丘揣準� 村便� 圳效� 喇� 同苓菌�(圳星� - 圳揖刖� 火吒� 圳嫉挺匈 掃� 圳效�)</li>
+<li>(承柙�) 丘揣準� 圳匈恭� 奧圳嗯 睹杞漿 媽 芯泠 圳蛻攸 刖</li>
+<li>火吒� 圳狀同 2.5.4 腔怛澆 嗉� 每位� 媽 吋米 嗚挪 話� 珀� 羽詩奸菱</li>
+<li>火吒� 圳狀同 架� 5.3 腔怛澆 性� 圳塋酌 圳效汪 圳圓迥 � 100 廉氫 缶聒 媽 16 廉氫</li>
+<li>火吒� 圳狀同 2.2.2c 腎苓� 圳詰� 圳媽喫� 聒泄 婢裘 </li>
+<li>火吒� 圳狀同 架� 2.4.14 腔淦潛 菽� 吐� 圳嗅媳悼 裙捫 杜瘩� 依� 凋剜 吃吉� 圳汞姍� 媽 圳喱� 2.4</li>
+<li>火吒� 圳狀同 架� 3.14 腔淦潛 菽� 奸媚楠 圳釧苓� 釧 凋剜 圳氏悵挑� 圳媽百喋</li>
+<li>水聒� 惚� 責� 虹� whatsapp.log</li>
+<li>火吒� 圳改奄� 著涼 圳豉星瘩�</li>
+<li>水聒� 圳授芣 著泠釧� 圳吒改各漿 推� 吐抓芯� 泠釧� 嗥拿� 菱� 嗆吉豕 (圳狀同 1.2.0)</li>
+<li>水聒� 豢芷� 欠豉� 圳婢裘 釧 肌� 圳匠碘�</li>
+<li>村便� 圳改奄� 釧 圳菅� 圳戚位�</li>
+<li>水聒怵� 危枰</li>
+
+
+<li> New Base Updated to 2.16.310</li>
+<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
+<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
+<li> Added New Emojis (send Big Emojis) </li>
+<li> Added Doodle (Now add edit pics with emojis & text)</li>
+<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
+<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
+<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
+<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
+<li> Added Farsi Language Translation</li>
+<li> Fixed WhatsApp.Log</li>
+<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
+<li> Fixed GB Widget in some devices</li>
+<li> Other Fixes</li>
+
+","url":"www.azmods.co"
+}
